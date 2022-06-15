@@ -13,3 +13,4 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Altomy&left_color=green&right_color=red)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
