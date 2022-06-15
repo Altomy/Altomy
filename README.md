@@ -3,7 +3,5 @@
 - 📫 How to reach me "altomy.jo@gmail.com"
 
 
-# Todoist Stats
-
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
