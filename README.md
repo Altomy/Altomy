@@ -10,3 +10,6 @@
 ✅  Completed 1,173 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Altomy&left_color=green&right_color=red)
