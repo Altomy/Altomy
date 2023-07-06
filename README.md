@@ -9,6 +9,8 @@
 ✅  Completed 9,454 tasks so far           
 ⏳  Longest streak is 40 days
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 #### DevOps Tools:
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
